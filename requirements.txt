@@ -1,0 +1,8 @@
+Flask
+black
+gunicorn
+requests
+pytest
+pytest-mock
+coverage
+wheel
